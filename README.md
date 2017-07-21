@@ -1,0 +1,2 @@
+# VenusCoin
+Venus coin contract
